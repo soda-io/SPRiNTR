@@ -16,11 +16,11 @@
 
 ![8_preview_featured](8_preview_featured.jpg)
 
-![BowdenSetup](BowdenSetup_011_1280x768_preview_featured.jpg)
+![Bowden+Setup](BowdenSetup_011_1280x768_preview_featured.jpg)
 
-![BowdenSetup](BowdenSetup_014_1280x768_preview_featured.jpg)
+![Bowden_Setup](BowdenSetup_014_1280x768_preview_featured.jpg)
 
-![BowdenSetup](BowdenSetup_018_1280x768_preview_featured.jpg)
+![Bowden-Setup](BowdenSetup_018_1280x768_preview_featured.jpg)
 
 ![OB14_033_preview_featured](OB14_033_preview_featured.jpg)
 
@@ -28,7 +28,7 @@
 
 ![OB14_040_preview_featured](OB14_040_preview_featured.jpg)
 
-![OB14_parts_IDa_[1280x768_preview_featured](OB14_parts_IDa_[1280x768_preview_featured.jpg)
+![OB14_parts_IDa_1280x768_preview_featured](OB14_parts_IDa_[1280x768_preview_featured.jpg)
 
 ![OBX_001_preview_featured](OBX_001_preview_featured.jpg)
 
