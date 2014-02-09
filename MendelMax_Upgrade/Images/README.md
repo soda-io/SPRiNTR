@@ -16,11 +16,11 @@
 
 ![8_preview_featured](8_preview_featured.jpg)
 
-![BowdenSetup_011_1280x768_preview_featured](BowdenSetup_011_1280x768_preview_featured.jpg)
+![BowdenSetup](BowdenSetup_011_1280x768_preview_featured.jpg)
 
-![BowdenSetup_014_1280x768_preview_featured](BowdenSetup_014_1280x768_preview_featured.jpg)
+![BowdenSetup](BowdenSetup_014_1280x768_preview_featured.jpg)
 
-![BowdenSetup_018_1280x768_preview_featured](BowdenSetup_018_1280x768_preview_featured.jpg)
+![BowdenSetup](BowdenSetup_018_1280x768_preview_featured.jpg)
 
 ![OB14_033_preview_featured](OB14_033_preview_featured.jpg)
 
