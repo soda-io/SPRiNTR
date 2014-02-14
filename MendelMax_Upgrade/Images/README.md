@@ -90,3 +90,15 @@
 
 ![new](IMG_1727_display_large_preview_featured.jpg)
 
+
+**Перевернутые оси "X"**
+
+![New2](04-New-X-Track-Clamps_display_large_preview_featured.jpg)
+
+![New2](01-Old-Z-Clearance-Belt_display_large_preview_featured.jpg)	
+
+![New2](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg)
+
+![New2](02-Old-Z-Clearance-Motor_display_large_preview_featured.jpg)	
+
+![New2](03-New-Belt-Location_display_large_preview_featured.jpg)
