@@ -38,7 +38,7 @@ Prepare upgrade for Mendel Max
 
 **Перевернутые оси "X"**
 
-![New2](04-New-X-Track-Clamps_display_large_preview_featured.jpg)
+![New2](Water_Jet_plate_007_preview_featured.jpg)
 
 ![New2](01-Old-Z-Clearance-Belt_display_large_preview_featured.jpg)	
 
