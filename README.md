@@ -40,10 +40,12 @@ Prepare upgrade for Mendel Max
 
 ![New2](Water_Jet_plate_007_preview_featured.jpg)
 
-![New2](01-Old-Z-Clearance-Belt_display_large_preview_featured.jpg)	
+![New2](Water_Jet_plate_005_preview_featured.jpg)	
 
-![New2](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg)
+![New2](Water_Jet_plate_002_preview_featured.jpg)
 
-![New2](02-Old-Z-Clearance-Motor_display_large_preview_featured.jpg)	
+![New2](OBX_006_preview_featured.jpg)	
 
-![New2](03-New-Belt-Location_display_large_preview_featured.jpg)
+![New2](OBX_004_preview_featured.jpg)
+
+![New2](OBX_001_preview_featured.jpg)
