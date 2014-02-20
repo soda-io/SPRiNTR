@@ -40,19 +40,11 @@
 
 ![New2](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg)
 
-![New2](02-Old-Z-Clearance-Motor_display_large_preview_featured.jpg)	
-
-![New2](03-New-Belt-Location_display_large_preview_featured.jpg)
-
-![New2](03-Old-Z-Rod-Wasted_display_large_preview_featured.jpg)
-
-![New2](04-New-X-Track-Clamps_display_large_preview_featured.jpg)
-
 ![New2](06-New-Z-Endstop-Issue_display_large_preview_featured.jpg)
 
 ![New2](DSCF3467m_display_large_preview_featured.jpg)
 
-![New2](DSCF3469m_display_large_preview_featured.jpg)
+
 
 
 
