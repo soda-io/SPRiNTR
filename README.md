@@ -9,6 +9,7 @@ Prepare upgrade for Mendel Max
 
 ![Моторы сверху](mendelmax-2-0-kit-beta-3.jpeg)
 ![Моторы сверху](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg )
+
 **Жесткая конструкция**
 
 - Жесткая конструкция позволит удобнее обслуживать принтер, широкий выбор места для датчиков, а так же удобнее снимать модели
