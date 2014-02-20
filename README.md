@@ -38,6 +38,8 @@ Prepare upgrade for Mendel Max
 
 **Перевернутые оси "X"**
 
+- Новое местоположение моторов и перевернутые рельсы оси "Х" возможно позволят упростить калибровку оси "Z"
+
 ![New2](Water_Jet_plate_007_preview_featured.jpg)
 
 ![New2](Water_Jet_plate_005_preview_featured.jpg)	
