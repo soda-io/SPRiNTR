@@ -22,29 +22,13 @@
 
 ![Bowden-Setup](BowdenSetup_018_1280x768_preview_featured.jpg)
 
-![OB14_033_preview_featured](OB14_033_preview_featured.jpg)
+![OB14_033_preview_featured](img198_preview_featured.jpg)
 
-![OB14_036_preview_featured](OB14_036_preview_featured.jpg)
+![OB14_036_preview_featured](06-New-Z-Endstop-Issue_display_large_preview_featured.jpg)
 
-![OB14_040_preview_featured](OB14_040_preview_featured.jpg)
-
-![OB14_parts_IDa_1280x768_preview_featured](OB14_parts_IDa_[1280x768_preview_featured.jpg)
-
-![OBX_001_preview_featured](OBX_001_preview_featured.jpg)
-
-![OBX_004_preview_featured](OBX_004_preview_featured.jpg)
-
-![OBX_006_preview_featured](OBX_006_preview_featured.jpg)
+![OB14_040_preview_featured](DSCF3469m_display_large_preview_featured.jpg)
 
 ![PrinterPlate3_preview_featured](PrinterPlate3_preview_featured.jpg)
-
-![Water_Jet_plate_002_preview_featured](Water_Jet_plate_002_preview_featured.jpg)
-
-![Water_Jet_plate_003_preview_featured](Water_Jet_plate_003_preview_featured.jpg)
-
-![Water_Jet_plate_005_preview_featured](Water_Jet_plate_005_preview_featured.jpg)
-
-![Water_Jet_plate_007_preview_featured](Water_Jet_plate_007_preview_featured.jpg)
 
 ![img198_preview_featured](img198_preview_featured.jpg)
 
@@ -91,14 +75,3 @@
 ![new](IMG_1727_display_large_preview_featured.jpg)
 
 
-**Перевернутые оси "X"**
-
-![New2](04-New-X-Track-Clamps_display_large_preview_featured.jpg)
-
-![New2](01-Old-Z-Clearance-Belt_display_large_preview_featured.jpg)	
-
-![New2](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg)
-
-![New2](02-Old-Z-Clearance-Motor_display_large_preview_featured.jpg)	
-
-![New2](03-New-Belt-Location_display_large_preview_featured.jpg)
