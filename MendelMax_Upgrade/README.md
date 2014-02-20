@@ -54,24 +54,6 @@
 
 ![New2](DSCF3469m_display_large_preview_featured.jpg)
 
-![new](Experimental_display_large_preview_featured.jpg)	
 
-![new](IMG_1686_display_large_preview_featured.jpg)
-
-![new](IMG_1690_display_large_preview_featured.jpg)	
-
-![new](IMG_1691_display_large_preview_featured.jpg)	
-
-![new](IMG_1700_display_large_preview_featured.jpg)	
-
-![new](IMG_1701_display_large_preview_featured.jpg)	
-
-![new](IMG_1713_display_large_preview_featured.jpg)	
-
-![new](IMG_1715_display_large_preview_featured.jpg)	
-
-![new](IMG_1717_display_large_preview_featured.jpg)	
-
-![new](IMG_1727_display_large_preview_featured.jpg)
 
 
