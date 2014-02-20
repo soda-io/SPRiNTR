@@ -32,12 +32,6 @@
 
 ![img198_preview_featured](img198_preview_featured.jpg)
 
-![New2](00-New-Assembled_display_large_preview_featured.jpg)	
-
-![New2](01-New-Raised-Lower-Z-Clamps_display_large_preview_featured.jpg)	
-
-![New2](01-Old-Z-Clearance-Belt_display_large_preview_featured.jpg)	
-
 ![New2](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg)
 
 ![New2](06-New-Z-Endstop-Issue_display_large_preview_featured.jpg)
