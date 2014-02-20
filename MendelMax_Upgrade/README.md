@@ -26,7 +26,6 @@
 
 ![OB14_036_preview_featured](06-New-Z-Endstop-Issue_display_large_preview_featured.jpg)
 
-![OB14_040_preview_featured](DSCF3469m_display_large_preview_featured.jpg)
 
 ![PrinterPlate3_preview_featured](PrinterPlate3_preview_featured.jpg)
 
