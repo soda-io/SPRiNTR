@@ -1,7 +1,5 @@
-mendel-upgrade
-==============
+#Prepare upgrade for Mendel Max
 
-Prepare upgrade for Mendel Max
 
 **Моторы сверху**
 
