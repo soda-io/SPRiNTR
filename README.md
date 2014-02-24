@@ -52,3 +52,12 @@ Prepare upgrade for Mendel Max
 ![New2](OBX_004_preview_featured.jpg)
 
 ![New2](OBX_001_preview_featured.jpg)
+
+
+**Замена ремня на резьбовую ось**
+
+- Честно говоря не знаю, что это даст, но думаю, что это улучшит качество моделей, так как движение стола будет более медленным
+
+![122](New Y.jpg) 
+
+![122](New_Y.jpg)
