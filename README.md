@@ -7,7 +7,7 @@
 
 ![Моторы сверху](mendelmax-2-0-kit-beta-3.jpeg)
 ![Моторы сверху](02-New-Raised-Z-Vertex_display_large_preview_featured.jpg )
-![MendelMax](mendelmax-2-0-kit-beta-3.jpeg)
+![MendelMax](mendelmax-2-beta-kit.jpg)
 
 
 **Жесткая конструкция**
