@@ -3,9 +3,7 @@
 
 **Моторы сверху**
 
-- Я думаю, что если нам поставить моторы сверху, то возможно удастся избежать перекоса шпилек оси "Z"
-
-[Motors](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
+- [Я думаю, что если нам поставить моторы сверху, то возможно удастся избежать перекоса шпилек оси "Z"](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
 
 
 
