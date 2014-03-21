@@ -1,7 +1,7 @@
 #Prepare upgrade for Mendel Max
 
 
-![**Моторы сверху**](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
+[**Моторы сверху**](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
 
 - Я думаю, что если нам поставить моторы сверху, то возможно удастся избежать перекоса шпилек оси "Z"
 
