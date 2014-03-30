@@ -39,8 +39,8 @@
 
 #Над проектом работают
 
-|                |                 |           |
-|:------------:|:---------------:|:---------:|
-|![](https://avatars1.githubusercontent.com/u/3833771?s=40)|[Pavel S](https://github.com/PavelShalaginov)|
-|![](https://avatars3.githubusercontent.com/u/147170?s=40)|[Kirill T](https://github.com/KirillTemnov)|
-||||||
+|                |                 |           
+|:------------:|:---------------:|
+|![](https://avatars1.githubusercontent.com/u/3833771?s=60)|[Pavel S](https://github.com/PavelShalaginov)|
+|![](https://avatars3.githubusercontent.com/u/147170?s=60)|[Kirill T](https://github.com/KirillTemnov)|
+|![](https://avatars1.githubusercontent.com/u/3838734?s=60)|[Maxim L](https://github.com/MaximLoguncov)|
