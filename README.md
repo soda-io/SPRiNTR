@@ -41,6 +41,6 @@
 
 |                |                 |           |
 |:------------:|:---------------:|:---------:|
-|![](https://avatars1.githubusercontent.com/u/3833771?s=460?s=60)|[Pavel S](https://github.com/PavelShalaginov)|
+|![](https://avatars1.githubusercontent.com/u/3833771?s=460?s=40)|[Pavel S](https://github.com/PavelShalaginov)|
 ||||||
 ||||||
