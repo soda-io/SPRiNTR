@@ -1,4 +1,6 @@
-#Prepare upgrade for Mendel Max
+![](https://avatars0.githubusercontent.com/u/6559911?s=28) MendelMax Upgrade
+
+**Цель**
 
 
 [**Моторы сверху**](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
