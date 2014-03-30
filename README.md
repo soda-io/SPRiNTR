@@ -1,4 +1,4 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=28) #MendelMax Upgrade
+![](https://avatars0.githubusercontent.com/u/6559911?s=28)MendelMax Upgrade
 
 #Цель
 
