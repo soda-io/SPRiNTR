@@ -1,8 +1,15 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=28) MendelMax Upgrade
+![](https://avatars0.githubusercontent.com/u/6559911?s=18) MendelMax Upgrade
 ===
 
 #Цель
 
+- Провести рабочий рестайлинг принтера
+- Максимально задействовать все возможности печати
+- Внедрить датчики, заставить их работать
+- Облегчить раму и не нарушить жесткость конструкции
+- Облегчить доступ к принтеру. Сделать максимально простое управление принтером
+
+#Идеи
 
 [**Моторы сверху**](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
 
