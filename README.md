@@ -1,7 +1,7 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=38) MendelMax Upgrade
 ===
 
-#Цель
+# == Цель ==
 
 - Провести рабочий рестайлинг принтера
 - Максимально задействовать все возможности печати
@@ -9,7 +9,7 @@
 - Облегчить раму и не нарушить жесткость конструкции
 - Облегчить доступ к принтеру. Сделать максимально простое управление принтером
 
-#Идеи
+# == Идеи ==
 
 [**Моторы сверху**](https://github.com/soda-io/mendel-upgrade/tree/master/Images/Motors)
 
@@ -37,7 +37,7 @@
 
 - Честно говоря не знаю, что это даст, но думаю, что это улучшит качество моделей, так как движение стола будет более медленным
 
-#Наблюдения
+# == Наблюдения ==
 - Красный пластик переливается, не желателен для печати на MendelMax
 - Если печатать на стекле(зеркале), то получается гладкой поверхность модели(та часть, которая прилегает к стеклу)
 - Черный, оранжевый, зеленый, синий - из этих цветов получаются самые качественные модели
@@ -46,10 +46,16 @@
 
 
 
-#Над проектом работают
+# == СОАВТОРЫ ==
+## {M}
+|            |                       |
+|----------------|:----------------:|
+|![](https://avatars3.githubusercontent.com/u/147170?s=60)|[Kirill T](https://github.com/KirillTemnov)|
+
+## {У}
 
 |                |                 |           
 |:------------:|:---------------:|
 |![](https://avatars1.githubusercontent.com/u/3833771?s=60)|[Pavel S](https://github.com/PavelShalaginov)|
-|![](https://avatars3.githubusercontent.com/u/147170?s=60)|[Kirill T](https://github.com/KirillTemnov)|
 |![](https://avatars1.githubusercontent.com/u/3838734?s=60)|[Maxim L](https://github.com/MaximLoguncov)|
+|![](https://avatars0.githubusercontent.com/u/4226210?s=60)|[Sheroz K](https://github.com/SherozKarimov)|
