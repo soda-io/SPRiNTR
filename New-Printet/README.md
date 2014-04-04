@@ -9,7 +9,7 @@
 #Запчасти
 |Фото| Цена      |Ссылка     |
 |:------|:-------:|-----------:|
-|610mm![](http://www.adafruit.com/images/medium/1221entire_MED.jpg)|$7.50|[тут](http://www.adafruit.com/products/1221)|
+|![](http://www.adafruit.com/images/medium/1221entire_MED.jpg)|$7.50 610mm|[тут](http://www.adafruit.com/products/1221)|
 |![](http://www.adafruit.com/images/medium/1251_MED.jpg)|$8|[тут](http://www.adafruit.com/products/1251)|
 |![](https://www.adafruit.com/images/medium/1274_MED.jpg)|$149|[тут](https://www.adafruit.com/products/1274)|
 |![](http://www.adafruit.com/images/medium/1259_MED.jpg)|$2|[тут](http://www.adafruit.com/products/1259)|
