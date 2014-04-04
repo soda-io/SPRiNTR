@@ -15,11 +15,11 @@
 |![](http://www.adafruit.com/images/medium/1259_MED.jpg)|$2|[тут](http://www.adafruit.com/products/1259)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/glass_5_1024x1024.jpg?v=1352933009)|$35 320ммХ320мм|[тут](http://trinitylabs.com/products/borosilicate-print-surface-320mm-x-320mm)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/24V_17AMP_PSU_1024x1024.jpg?v=1352932811)|60$|[тут](http://trinitylabs.com/products/24v-17a-power-supply)|
-|![](http://blomker.com/img/p/7/5/75-thickbox.jpg?s=40)|USD39.90|[тут](http://blomker.com/index.php?id_product=16&controller=product)|
+|![](http://blomker.com/img/p/7/5/75-thickbox.jpg?s=40)|USD39.90 15мм|[тут](http://blomker.com/index.php?id_product=16&controller=product)|
 |![](http://blomker.com/img/p/7/8/78-thickbox.jpg?s=40)|USD18.00|[тут](http://blomker.com/index.php?id_product=17&controller=product)|
 |![](http://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/QMkAAOxyiRlSajal/$(KGrHqVHJB8FJ!)+n!I6BS,j,kocqw~~60_1.JPG?set_id=880000500F)|384,00 руб.|[тут](http://sendle.ru/175684-Zapchasti-I-Aksessuary/111210269682-RepRap-GT2-20T-8mm-Bore-Aluminum-Timing-Belt-Pulley-for-3D-Printer-Ultimaker.html)|
 |![](http://blomker.com/img/p/8/1/81-thickbox.jpg)|USD19.90|[тут](http://blomker.com/index.php?id_product=18&controller=product)|
-|![](http://cdn.shopify.com/s/files/1/0188/3404/products/Kapron_290x290_1024x1024.jpg?v=1367953683)|$40.00|[тут](http://trinitylabs.com/products/24v-400w-kapton-heater-290mm-x-290mm)|
+|![](http://cdn.shopify.com/s/files/1/0188/3404/products/Kapron_290x290_1024x1024.jpg?v=1367953683)|$40.00 290х290мм 24v   400w|[тут](http://trinitylabs.com/products/24v-400w-kapton-heater-290mm-x-290mm)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/trinity_29_1024x1024.jpg?v=1353469692)|$20.00|[тут](http://trinitylabs.com/products/y-axis-mounting-hardware)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/trinity_23_1024x1024.jpg?v=1352933951)|$10.00|[тут](http://trinitylabs.com/products/z-axis-couplers-5mm-to-1-4-inch-each)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/trinity_18_1024x1024.jpg?v=1352933919)|$80.00|[тут](http://trinitylabs.com/products/thompson-lead-screws-pair)|
