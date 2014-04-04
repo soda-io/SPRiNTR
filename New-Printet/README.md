@@ -10,8 +10,8 @@
 |Фото| Цена      |Ссылка     |
 |:------|:-------:|-----------:|
 |![](http://www.adafruit.com/images/medium/1221entire_MED.jpg)|$7.50 610mm|[тут](http://www.adafruit.com/products/1221)|
-|![](http://www.adafruit.com/images/medium/1251_MED.jpg)|$8 20 Tooth|[тут](http://www.adafruit.com/products/1251)|
-|![](https://www.adafruit.com/images/medium/1274_MED.jpg)|$149|[тут](https://www.adafruit.com/products/1274)|
+|![](http://www.adafruit.com/images/medium/1251_MED.jpg)|$8 20Tooth|[тут](http://www.adafruit.com/products/1251)|
+|![](https://www.adafruit.com/images/medium/1274_MED.jpg)|$149 320ммХ320мм|[тут](https://www.adafruit.com/products/1274)|
 |![](http://www.adafruit.com/images/medium/1259_MED.jpg)|$2|[тут](http://www.adafruit.com/products/1259)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/glass_5_1024x1024.jpg?v=1352933009)|$35|[тут](http://trinitylabs.com/products/borosilicate-print-surface-320mm-x-320mm)|
 |![](http://cdn.shopify.com/s/files/1/0188/3404/products/24V_17AMP_PSU_1024x1024.jpg?v=1352932811)|60$|[тут](http://trinitylabs.com/products/24v-17a-power-supply)|
