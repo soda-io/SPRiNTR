@@ -44,5 +44,11 @@
 |![](http://www.electronshik.ru/img/500/merppulley_preview_medium_large.jpg)|325p.|[тут](https://www.electronshik.ru/card/xy-motor-pulley-for-5mm-shaft-12209020)|
 |![](http://www.electronshik.ru/img/500/dsc1628_1024x1024.jpg)|920p.|[тут](https://www.electronshik.ru/card/endstop-with-wire-3pcs-per-set-12209019)|
 
-#Инструменты
+#==Инструменты==
 [Любой инструмент](http://www.adafruit.com/category/8)
+
+#==Над проектом работают==
+|         |             |           |
+|---------|-------------|-----------|
+|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74)| [Pavel S](https://github.com/PavelShalaginov)| [Maxim L](https://github.com/MaximLoguncov)|[Kirill Temnov](https://github.com/KirillTemnov)|
+
