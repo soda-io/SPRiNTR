@@ -44,6 +44,9 @@
 |![](http://www.electronshik.ru/img/500/merppulley_preview_medium_large.jpg)|325p.|[тут](https://www.electronshik.ru/card/xy-motor-pulley-for-5mm-shaft-12209020)|
 |![](http://www.electronshik.ru/img/500/dsc1628_1024x1024.jpg)|920p.|[тут](https://www.electronshik.ru/card/endstop-with-wire-3pcs-per-set-12209019)|
 
+#==Models==
+[Models](https://github.com/soda-io/mendel-upgrade/tree/master/New-Printet/MendelMax%20Kit?raw=true)
+
 #==Инструменты==
 [Любой инструмент](http://www.adafruit.com/category/8)
 
