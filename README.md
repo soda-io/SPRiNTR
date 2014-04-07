@@ -3,8 +3,15 @@
 
 ![](https://avatars0.githubusercontent.com/u/6559911?s=45) [New Printer>>](https://github.com/soda-io/SPRINTR/tree/master/New-Printet)
 ====
+#==Цель==
 
-#Upgrade
+- Собрать новый принтер
+- Переработать механику
+- Внедрить датчики, сенсоры, идеи
+- Увеличить размер печатного стола
+- Сделать максимально все самому
+
+[Upgrade>>](https://github.com/soda-io/SPRINTR/tree/master/MendelMax_Upgrade)
 =====
 
 # == Цель ==
