@@ -1,5 +1,13 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=45) SPRINTR
 ===
+# ==Над проектом работают==
+|            |                       |
+|----------------|:----------------:|
+|![](https://avatars3.githubusercontent.com/u/147170?s=60)|[Kirill T](https://github.com/KirillTemnov)|
+|![](https://avatars1.githubusercontent.com/u/3833771?s=60)|[Pavel S](https://github.com/PavelShalaginov)|
+|![](https://avatars1.githubusercontent.com/u/3838734?s=60)|[Maxim L](https://github.com/MaximLoguncov)|
+|![](https://avatars0.githubusercontent.com/u/4226210?s=60)|[Sheroz K](https://github.com/SherozKarimov)|
+
 
 ![](https://avatars0.githubusercontent.com/u/6559911?s=45) [New Printer>>](https://github.com/soda-io/SPRINTR/tree/master/New-Printet)
 ====
@@ -59,10 +67,3 @@
 
 
 
-# ==Над проектом работают==
-|            |                       |
-|----------------|:----------------:|
-|![](https://avatars3.githubusercontent.com/u/147170?s=60)|[Kirill T](https://github.com/KirillTemnov)|
-|![](https://avatars1.githubusercontent.com/u/3833771?s=60)|[Pavel S](https://github.com/PavelShalaginov)|
-|![](https://avatars1.githubusercontent.com/u/3838734?s=60)|[Maxim L](https://github.com/MaximLoguncov)|
-|![](https://avatars0.githubusercontent.com/u/4226210?s=60)|[Sheroz K](https://github.com/SherozKarimov)|
