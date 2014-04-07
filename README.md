@@ -1,6 +1,9 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=45) SPRINTR
 ===
 
+![](https://avatars0.githubusercontent.com/u/6559911?s=45) [New Printer>>](https://github.com/soda-io/SPRINTR/tree/master/New-Printet)
+====
+
 #Upgrade
 =====
 
