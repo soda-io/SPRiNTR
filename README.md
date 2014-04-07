@@ -1,4 +1,4 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=29) SPRiNTR | 3D printer
+![](https://avatars0.githubusercontent.com/u/6559911?s=29) [ 3D.SPRiNTR](https://github.com/soda-io/SPRiNTR)
 ===
 
 ## == ФОН ==
