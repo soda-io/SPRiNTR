@@ -7,6 +7,9 @@
 - [Electronshik](https://www.electronshik.ru/class/3d-printeri-1821)
 
 #Запчасти
+
+![](https://github.com/soda-io/SPRiNTR/blob/master/AllParts.stl?raw=true)
+
 |Фото| Цена      |Ссылка     |
 |:------|:-------:|-----------:|
 |![](http://www.adafruit.com/images/medium/1221entire_MED.jpg)|$7.50 610mm|[тут](http://www.adafruit.com/products/1221)|
