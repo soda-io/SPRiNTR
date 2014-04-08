@@ -1,5 +1,11 @@
 #Upgrade for 3D printer
 
+![](OB14_040_preview_featured.jpg)
+
+![](OBX_004_preview_featured.jpg)
+
+![](OBX_006_preview_featured.jpg)
+
 ![1_preview_featured](1_preview_featured.jpg)
 
 ![2_preview_featured](2_preview_featured.jpg)
