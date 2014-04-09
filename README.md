@@ -65,8 +65,8 @@
 
 |    |    |    |    
 |----|----|----|
-|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74) | ![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
-|[Pavel S](https://github.com/PavelShalaginov)| [Maxim L](https://github.com/MaximLoguncov) | [Sheroz K](https://github.com/SherozKarimov)  
+|[![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)](https://github.com/PavelShalaginov) | [![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)](https://github.com/MaximLoguncov)|[![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)](https://github.com/SherozKarimov)|
+
 
 ### {M}
 
