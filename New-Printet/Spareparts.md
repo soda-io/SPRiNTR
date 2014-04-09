@@ -8,7 +8,7 @@
 
 #Запчасти
 
-![](https://github.com/soda-io/SPRiNTR/blob/master/AllParts.stl?raw=true)
+[3D-Models](https://github.com/soda-io/SPRiNTR/blob/master/AllParts.stl?raw=true)
 
 |Фото| Цена      |Ссылка     |
 |:------|:-------:|-----------:|
