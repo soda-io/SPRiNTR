@@ -1,4 +1,4 @@
-Upgarde 3D Priner
+Upgrade 3D Priner
 ========
 
 
