@@ -1,7 +1,7 @@
 Upgarde 3D Priner
 ========
 
-![](06-New-Z-Endstop-Issue_display_large_preview_featured.jpg)
+
 ![](1_preview_featured.jpg)
 ![](2_preview_featured.jpg)
 ![](3_preview_featured.jpg)
