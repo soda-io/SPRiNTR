@@ -1,7 +1,6 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=29) [ 3D.SPRiNTR](https://github.com/soda-io/SPRiNTR)
 ===
 
-## == ФОН ==
 
 ## == НАБЛЮДЕНИЯ ==
 - Маленькие детали печатаюся плохо
@@ -56,13 +55,17 @@
 
 ## == РИСКИ ==
  - снижение качества готовых моделей 
- - ...
+ - снижение скорости печати
+ - затруднения с настройками
 
 ## == КОНКУРЕНТЫ ==
 - [MakerBot Replicator 2](http://www.makerbot.com)
 - [Peachy Printer](http://www.peachyprinter.com)
-- ...
-- 
+- [ProtoBlast](http://sfera-3d.ru/products/3d-printer-protoblast)
+- [PrintBox3D One](http://sfera-3d.ru/products/3d-printer-printbox3d-one)
+- [Picaso 3D Builder](http://sfera-3d.ru/products/3d-printer-picaso-3d-builder)
+
+
 ## == СОАВТОРЫ ==
 
 ### {У}
