@@ -42,3 +42,6 @@
 ![](Water_Jet_plate_005_preview_featured.jpg)
 ![](Water_Jet_plate_007_preview_featured.jpg)
 ![](img198_preview_featured.jpg)
+
+[==Запчасти==](https://github.com/soda-io/SPRiNTR/blob/master/Mendel/Spareparts.md)
+
