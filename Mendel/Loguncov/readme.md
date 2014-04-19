@@ -2,7 +2,7 @@
 
  - Бодбородник для удобства наблюдения за печатью
 
-![photo](../Mendel/Images/pillow/1.jpg)
+![photo](https://github.com/soda-io/SPRiNTR/blob/master/Mendel/Images/pillow/1.jpg)
 
  - Немного рекламы 
 
