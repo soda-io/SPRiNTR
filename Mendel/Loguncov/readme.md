@@ -2,8 +2,8 @@
 
  - Бодбородник для удобства наблюдения за печатью
 
-![](https://github.com/soda-io/SPRiNTR/Mendel/Images/pillow/1.jpg)
+![photo](../Mendel/Images/pillow/1.jpg)
 
  - Немного рекламы 
 
-![](https://github.com/soda-io/SPRiNTR/Mendel/Images/pillow/reklam.jpg)
+![photo](../Mendel/Images/pillow/reklam.jpg)
