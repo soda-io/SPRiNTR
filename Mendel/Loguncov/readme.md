@@ -2,7 +2,7 @@
 
  - Бодбородник для удобства наблюдения за печатью
 
-![photo](../Mendel/Images/pillow/1.jpg)
+![photo](../Mendel/Images/pillow/1.png)
 
  - Немного рекламы 
 
