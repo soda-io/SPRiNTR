@@ -67,7 +67,7 @@
 - [ProtoBlast](http://sfera-3d.ru/products/3d-printer-protoblast)
 - [PrintBox3D One](http://sfera-3d.ru/products/3d-printer-printbox3d-one)
 - [Picaso 3D Builder](http://sfera-3d.ru/products/3d-printer-picaso-3d-builder)
-
+- [UP! mini](http://www.pp3dp.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=6&category_id=1&option=com_virtuemart&Itemid=37)
 
 ## == СОАВТОРЫ ==
 
