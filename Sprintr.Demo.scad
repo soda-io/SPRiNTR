@@ -81,3 +81,7 @@ difference([]){
 	translate([20,I+10,-170]) cylinder(T,10,10);
 	translate([-50,I+10,-170]) cylinder(T,10,10);
 }
+
+
+	color([0,0,1]) translate([15,T-170,I]) cube([70,50,40], center=true);
+	
