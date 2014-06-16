@@ -9,6 +9,8 @@
 #Запчасти
 
 [3D-Models](https://github.com/soda-io/SPRiNTR/blob/master/AllParts.stl?raw=true)
+
+
 | Фото | Название| Цена (за шт) | Кол-во |
 |:------:|:------:|:------:|:-------:|
 | [![](http://www.adafruit.com/images/1200x900/1302-00.jpg)](http://www.adafruit.com/products/1302)| Рельса | 14.5$ | 2 |
