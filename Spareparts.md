@@ -5,6 +5,9 @@
 - [Sendle](http://sendle.ru/175684-Zapchasti-I-Aksessuary)
 - [Fixled](http://fixled.ru/mechanics/3d-cnc-stepper-motor.html)
 - [Electronshik](https://www.electronshik.ru/class/3d-printeri-1821)
+- [Robots3D](http://robots3d.ru)
+- [Fixled](http://fixled.ru)
+- [3DLion](http://3dlion.ru)
 
 #Запчасти
 
