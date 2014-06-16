@@ -9,6 +9,20 @@
 #Запчасти
 
 [3D-Models](https://github.com/soda-io/SPRiNTR/blob/master/AllParts.stl?raw=true)
+| Фото | Название| Цена (за шт) | Кол-во |
+|:------:|:------:|:------:|:-------:|
+| [![](http://www.adafruit.com/images/1200x900/1302-00.jpg)](http://www.adafruit.com/products/1302)| Рельса | 14.5$ | 2 |
+|[![](http://www.adafruit.com/images/medium/1221entire_MED.jpg)](http://www.adafruit.com/products/1221)|Рельса| $7.50 610mm| 1|
+| [![](http://robots3d.ru/image/cache/data/items/heatbed_mk2a_pcb_01-800x800.jpg)](http://robots3d.ru/parts_accessories/heated_beds/heatbed_mk2a_pcb.html)| Нагревательный стол | 990p. | 1 |
+| [![](http://robots3d.ru/image/cache/data/items/atx_winard_350w-800x800.jpg)](http://robots3d.ru/parts_accessories/electronics/power_supplies/power_supplie_atx_winard_350w.html) | Блок питания | 620p. | 1 |
+| [![](http://3dlion.ru/files/products/tp15x30_900.800x600.jpg?7178ccb6f019590d21e401edfd15df84)](http://3dlion.ru/products/gibkij-kabel-kanal-15-30?v=24) |Гибкий кабель канал 15*30 мм | 780р.| 1-2 |
+| [![](http://fixled.ru/image/cache/data/3d/GT2_20__belt-500x500.JPG)](http://fixled.ru/3d-printer/3d-mechanics/timing-belt-o-t25.html)| Pемень 1м| 300p | 1 |
+| [![](http://fixled.ru/image/cache/data/mechanics/5-8-coupler-stepper-motor-500x500.jpg)](http://fixled.ru/mechanics/stepper/5-8-coupler.html)| Соединительная муфта | 300р | 2 |
+| [![](http://robots3d.ru/image/cache/data/items/ramps_14_fullset_05-800x800.jpg)](http://robots3d.ru/parts_accessories/electronics/electronics_kits/complete_set_of_ramps_1_4_electronics_full_set.html)| Полный набор электроники | 5200 | 1 |
+| [![](http://robots3d.ru/image/cache/data/items/stepper_motor_nema17_17hs8401-800x800.jpg)](http://robots3d.ru/parts_accessories/electronics/stepper_motors/stepper_motor_nema17_17hs8401.html)| Шаговый двигатель | 900p. | 5 |
+| [![](http://robots3d.ru/image/cache/data/items/608zz_bearing_01-800x800.jpg)](http://robots3d.ru/parts_accessories/hardware/bearings/bearing_608zz.html)| Подшипник | 55p. | 4 |
+| [![](http://robots3d.ru/image/cache/data/items/pulleys_3_gt2-800x800.jpg)](http://robots3d.ru/parts_accessories/pulleys_for_belt_gt2_3_pcs_set_for_mendel.html)| Шкив | 900р | 1 |
+
 
 |Фото| Цена      |Ссылка     |
 |:------|:-------:|-----------:|
