@@ -1,7 +1,8 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=29) [ 3D.SPRiNTR](https://github.com/soda-io/SPRiNTR)
+![](https://cloud.githubusercontent.com/assets/147170/2811105/08f66492-ce06-11e3-8d00-49fda38c242f.png)
+
 ===
 
-###По вопросу предложений, идей и крутых тем пожалуйста в [**ISSUE**](https://github.com/soda-io/SPRiNTR/issues)
+###По вопросу предложений и крутых тем пожалуйста в [**ISSUE**](https://github.com/soda-io/SPRiNTR/issues)
 
 ## == ПРОБЛЕМЫ ==
 
