@@ -1,0 +1,246 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Sprintr</title>
+  <meta name="description" content="Upgrade 3D printer Mendel Max | #IoT #DIY #OpenHardware">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Sprintr</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">Upgrade 3D printer Mendel Max | #IoT #DIY #OpenHardware</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/soda-io/SPRiNTR/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/soda-io/SPRiNTR/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/soda-io/SPRiNTR" class="code">View Sprintr on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <p><img src="https://cloud.githubusercontent.com/assets/147170/2811105/08f66492-ce06-11e3-8d00-49fda38c242f.png" alt=""></p>
+
+<h1></h1>
+
+<h3>
+<a name="%D0%9F%D0%BE-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%BA%D1%80%D1%83%D1%82%D1%8B%D1%85-%D1%82%D0%B5%D0%BC-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0-%D0%B2-issue" class="anchor" href="#%D0%9F%D0%BE-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%BA%D1%80%D1%83%D1%82%D1%8B%D1%85-%D1%82%D0%B5%D0%BC-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0-%D0%B2-issue"><span class="octicon octicon-link"></span></a>По вопросу предложений и крутых тем пожалуйста в <a href="https://github.com/soda-io/SPRiNTR/issues"><strong>ISSUE</strong></a>
+</h3>
+
+<h2>
+<a name="-%D0%9F%D0%A0%D0%9E%D0%91%D0%9B%D0%95%D0%9C%D0%AB-" class="anchor" href="#-%D0%9F%D0%A0%D0%9E%D0%91%D0%9B%D0%95%D0%9C%D0%AB-"><span class="octicon octicon-link"></span></a>== ПРОБЛЕМЫ ==</h2>
+
+<ul>
+<li>Качество печати</li>
+<li>Модели получаются хорошего качества не с первого раза</li>
+<li>Принтер большой по своим габаритам</li>
+<li>Модульность</li>
+<li>Легкость сборки</li>
+<li>Калибровка</li>
+<li>Основание</li>
+<li>Механизм перемещения</li>
+<li>Датчики</li>
+<li>ПО</li>
+</ul><h2>
+<a name="-%D0%A0%D0%95%D0%A8%D0%95%D0%9D%D0%98%D0%95-" class="anchor" href="#-%D0%A0%D0%95%D0%A8%D0%95%D0%9D%D0%98%D0%95-"><span class="octicon octicon-link"></span></a>== РЕШЕНИЕ ==</h2>
+
+<ul>
+<li>Переработать механику</li>
+<li>Переработать прошивку</li>
+<li>Придумать хорошую конструкцию</li>
+<li>Учесть все недостатки печати на разных поверхностях</li>
+<li>Внедрить датчики</li>
+</ul><h2>
+<a name="-%D0%9D%D0%90%D0%91%D0%9B%D0%AE%D0%94%D0%95%D0%9D%D0%98%D0%AF-" class="anchor" href="#-%D0%9D%D0%90%D0%91%D0%9B%D0%AE%D0%94%D0%95%D0%9D%D0%98%D0%AF-"><span class="octicon octicon-link"></span></a>== НАБЛЮДЕНИЯ ==</h2>
+
+<ul>
+<li>Маленькие детали можно печатать на низкой скорости. Скорость регулируется джостиком на панели управления принтера. Обозначается в <code>%</code>  слева. <strong>100%</strong> - оптимальная скорость, на такой скорости качество моделей будет самым лучшим, <strong>60%</strong> - для печати маленьких моделей, <strong>&gt;120</strong> - для печати круглых моделей.</li>
+<li>Если печатать на стекле (зеркале), то поверхность модели получается гладкой (прилегающая к стеклу)</li>
+<li>Черный, оранжевый, зеленый, синий - из этих цветов получаются самые качественные модели</li>
+<li>Качественные модели получаются при использовании клея (в ацетон кинуть кусочек пластика и очень сильно потрясти), так как при крутых поворотах экструдер не цепляет края слоя</li>
+<li>Зеленый отлипает от стола на t=100</li>
+<li>Чтобы модели не отклеивались, стол должен быть максимально грязным. То есть на него должен быть нанесен клейкий состав из ацетона и пластика. Когда состав наносится на стол, то на столе должны оставаться частички пластика. Так модель никогда не отклеится, с какой бы скоростью не двигался стол. </li>
+<li>Чтобы печатать вертикально, стол должен быть жестко закреплен. Иначе калибровка сбивается. </li>
+<li>Наилучшая температура экструдера для печати <code>225°</code>
+</li>
+<li>PLA пластик засоряет экструдер. </li>
+<li>Если экструдер засорился, нужно протолкнуть пластик аккуратно тонкой отверткой сверху вниз (на принтере <strong>UP</strong> снизу вверх)</li>
+</ul><h3>
+<a name="%D0%98%D0%B4%D0%B5%D0%B8" class="anchor" href="#%D0%98%D0%B4%D0%B5%D0%B8"><span class="octicon octicon-link"></span></a>==Идеи==</h3>
+
+<hr><p><strong>Внешний вид</strong></p>
+
+<ol>
+<li><em>Куб</em></li>
+<li><em>Цилиндр</em></li>
+<li><em>Прямоугольная площадка с выдвижным экструдером</em></li>
+</ol><hr><p><strong>Движение</strong></p>
+
+<ol>
+<li><p><em>Горизонтальное перемещение с помощью колес / подъем по оси <code>Z</code> с помощью спец. механизмов.</em></p></li>
+<li><p><em>Во время печати неподвижно/во время подготовки движения паучка</em></p></li>
+<li><p><em>Подвижны только ноги (ось <code>Z</code>) и экструдер (оси <code>X</code> и <code>Y</code>)</em></p></li>
+<li><p><em>Сам принтер неподвижен. Стол двигается в плоскости, а печатная головка поднимается по оси <code>Z</code></em> </p></li>
+</ol><hr><p><strong>Экструдер</strong></p>
+
+<ol>
+<li><p><em>Располагаться на вержней крышке конструкции. (чтобы избежать зацепления моделей, две противоположные стенки будут отклоняться на 90')</em></p></li>
+<li><p><em>Неподвижен, перемежение по осям за счет ног</em></p></li>
+<li><p><em>Двигается по осям <code>X~Y</code></em></p></li>
+<li><p><em>Поднимается из спец. кармана при печати / при отключении выравнивается с печатным столом</em></p></li>
+</ol><hr><p><strong>Каркас</strong></p>
+
+<ol>
+<li><p><em>Oсновная конструкция состоит из металических прутов и шаговых двигателей</em></p></li>
+<li><p><em>Снаружи - пластик/внутри - металический каркас</em></p></li>
+<li>
+<p><em>В основном из метала. Присутствуют два ремня (только для движения стола)</em></p>
+
+<hr>
+</li>
+</ol><p><strong>Прочее</strong></p>
+
+<ol>
+<li><p><em>Изменение конструкции и движение стола. Хочу сделать примерно так, как на фотографии <img src="http://thingiverse-production.s3.amazonaws.com/renders/7e/82/b8/b1/86/2012-04-22_18.09.12_display_large_preview_featured.jpg?raw=true" alt=""></em></p></li>
+<li><p><em>Скрыть материнскую плату в корпус принтера и подлючить кулер для охлаждения</em></p></li>
+<li><p><em>Добавить кулеры для всех моторов и один повесить рядом с печатной головкой для быстрого затвердевания пластика</em></p></li>
+<li><p><em>Изменить поверхность печати. Сделать в ней отверстия, с помощью которых можно будет печать любым пластиком, в любой плоскости. Подогрев стола необязателен</em> </p></li>
+<li><p><em>Сделать приложение для всех устройств</em></p></li>
+<li><p><em>Внердить <code>Bluetooth Controler</code> и <code>Leap motion</code> , с помощью которых можно будет управлять принтером с помощью телефона/планшета и рук</em></p></li>
+</ol><h2>
+<a name="-%D0%A0%D0%98%D0%A1%D0%9A%D0%98-" class="anchor" href="#-%D0%A0%D0%98%D0%A1%D0%9A%D0%98-"><span class="octicon octicon-link"></span></a>== РИСКИ ==</h2>
+
+<ul>
+<li>снижение качества готовых моделей </li>
+<li>снижение скорости печати</li>
+<li>затруднения с настройками</li>
+</ul><h2>
+<a name="-%D0%A6%D0%95%D0%9B%D0%AC-" class="anchor" href="#-%D0%A6%D0%95%D0%9B%D0%AC-"><span class="octicon octicon-link"></span></a>== ЦЕЛЬ ==</h2>
+
+<ul>
+<li>Собрать новый 3D принтер</li>
+</ul><h2>
+<a name="-%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98-" class="anchor" href="#-%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98-"><span class="octicon octicon-link"></span></a>== ЗАДАЧИ ==</h2>
+
+<ul>
+<li>Уменьшить вес </li>
+<li>Облегчить доступ<br>
+</li>
+<li>Упростить управление</li>
+<li>Внедрить датчики, сенсоры<br>
+</li>
+<li>Увеличить размер печатного стола<br>
+</li>
+</ul><h2>
+<a name="-%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%90%D0%AF-%D0%9A%D0%90%D0%A0%D0%A2%D0%90-" class="anchor" href="#-%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%90%D0%AF-%D0%9A%D0%90%D0%A0%D0%A2%D0%90-"><span class="octicon octicon-link"></span></a>== ДОРОЖНАЯ КАРТА ==</h2>
+
+<table>
+<thead><tr>
+<th align="left">Tm</th>
+<th align="center">Состояние</th>
+<th>Список дел</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="left">3.04</td>
+<td align="center"><strong>✓</strong></td>
+<td>Поиск запчастей</td>
+</tr>
+<tr>
+<td align="left">10.04</td>
+<td align="center"><strong>✓</strong></td>
+<td>Переработка 3D моделей (часть запчастей)</td>
+</tr>
+<tr>
+<td align="left">30.04</td>
+<td align="center"><strong>▢</strong></td>
+<td>Примерное представление принтера</td>
+</tr>
+<tr>
+<td align="left">--.--</td>
+<td align="center"><strong>▢</strong></td>
+<td>Сборка принтера</td>
+</tr>
+</tbody>
+</table><h2>
+<a name="-%D0%9A%D0%9E%D0%9D%D0%9A%D0%A3%D0%A0%D0%95%D0%9D%D0%A2%D0%AB-" class="anchor" href="#-%D0%9A%D0%9E%D0%9D%D0%9A%D0%A3%D0%A0%D0%95%D0%9D%D0%A2%D0%AB-"><span class="octicon octicon-link"></span></a>== КОНКУРЕНТЫ ==</h2>
+
+<ul>
+<li><a href="http://www.makerbot.com">MakerBot Replicator 2</a></li>
+<li><a href="http://www.peachyprinter.com">Peachy Printer</a></li>
+<li><a href="http://sfera-3d.ru/products/3d-printer-protoblast">ProtoBlast</a></li>
+<li><a href="http://sfera-3d.ru/products/3d-printer-printbox3d-one">PrintBox3D One</a></li>
+<li><a href="http://sfera-3d.ru/products/3d-printer-picaso-3d-builder">Picaso 3D Builder</a></li>
+<li><a href="http://www.pp3dp.com/index.php?page=shop.product_details&amp;flypage=flypage.tpl&amp;product_id=6&amp;category_id=1&amp;option=com_virtuemart&amp;Itemid=37">UP! mini</a></li>
+</ul><h2>
+<a name="-%D0%A1%D0%9E%D0%90%D0%92%D0%A2%D0%9E%D0%A0%D0%AB-" class="anchor" href="#-%D0%A1%D0%9E%D0%90%D0%92%D0%A2%D0%9E%D0%A0%D0%AB-"><span class="octicon octicon-link"></span></a>== СОАВТОРЫ ==</h2>
+
+<h3>
+<a name="%D0%A3" class="anchor" href="#%D0%A3"><span class="octicon octicon-link"></span></a>{У}</h3>
+
+<table>
+<thead><tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr></thead>
+<tbody><tr>
+<td><a href="https://github.com/PavelShalaginov"><img src="https://avatars0.githubusercontent.com/u/3833771?s=74" alt="PavelShalaginov"></a></td>
+<td><a href="https://github.com/MaximLoguncov"><img src="https://avatars2.githubusercontent.com/u/3838734?s=74" alt="MaximLoguncov"></a></td>
+<td><a href="https://github.com/SherozKarimov"><img src="https://avatars0.githubusercontent.com/u/4226210?s=74" alt="SherozKarimov"></a></td>
+<td><a href="https://github.com/leonidprokopovich"><img src="https://avatars2.githubusercontent.com/u/6639503?s=74" alt="LeonidProkopovich"></a></td>
+</tr></tbody>
+</table><h3>
+<a name="m" class="anchor" href="#m"><span class="octicon octicon-link"></span></a>{M}</h3>
+
+<table>
+<thead><tr>
+<th></th>
+<th></th>
+</tr></thead>
+<tbody><tr>
+<td><img src="https://avatars1.githubusercontent.com/u/147170?s=74" alt="Kirill Temnov"></td>
+<td><img src="https://avatars0.githubusercontent.com/u/842476?s=74" alt="Vitaly GB"></td>
+</tr></tbody>
+</table><h1></h1>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/soda-io" class="avatar"><img src="https://avatars2.githubusercontent.com/u/4658189?s=60" width="48" height="48"/></a> <a href="https://github.com/soda-io">soda-io</a> maintains <a href="https://github.com/soda-io/SPRiNTR">Sprintr</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="http://pages.github.com/">GitHub Pages</a><br/>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/soda-io/SPRiNTR/tarball/master" class="tar">tar</a><a href="https://github.com/soda-io/SPRiNTR/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>
