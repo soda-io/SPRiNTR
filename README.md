@@ -138,14 +138,14 @@
 
 ### {У}
 
-|    |    |    |    |
+| Паша | Максим |  Шероз  |  Лёня  |
 |----|----|----|----|
 |[![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)](https://github.com/PavelShalaginov) | [![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)](https://github.com/MaximLoguncov)|[![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)](https://github.com/SherozKarimov)|[![LeonidProkopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)](https://github.com/leonidprokopovich)|
 
 
 ### {M}
 
-|    |    | 
+| Кирилл |  Виталий  | 
 |----|----|
 |![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74)|![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74)
 
