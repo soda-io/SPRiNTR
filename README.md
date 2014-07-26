@@ -39,6 +39,13 @@
 - PLA пластик засоряет экструдер. 
 - Если экструдер засорился, нужно протолкнуть пластик аккуратно тонкой отверткой сверху вниз (на принтере **UP** снизу вверх)
 
+
+### ==Интересные решения==
+****
+- [Экструдер](https://www.kickstarter.com/projects/dglass3d/next-generation-3d-printer-extruders-the-rugged-hp?ref=discovery)
+- [Замена ремням](http://3dprint.com/10249/corexz-3d-printer-collapsible/)
+- [Принтер](https://www.kickstarter.com/projects/920076234/the-creatorbot-3d-printer-professional-grade-large?ref=category)
+
 ### ==Идеи==
 ****
 **Внешний вид**
