@@ -132,6 +132,12 @@
 - [Picaso 3D Builder](http://sfera-3d.ru/products/3d-printer-picaso-3d-builder)
 - [UP! mini](http://www.pp3dp.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=6&category_id=1&option=com_virtuemart&Itemid=37)
 
+### == Литература ==
+****
+- [Thingiverse](http://www.thingiverse.com/)
+- [Kickstarter](https://www.kickstarter.com/)
+- [Google](https://google.com)
+
 ## == СОАВТОРЫ ==
 
 ### {У}
