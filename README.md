@@ -134,6 +134,7 @@
 
 ### == Литература ==
 ****
+- **Менторы**
 - [Thingiverse](http://www.thingiverse.com/)
 - [Kickstarter](https://www.kickstarter.com/)
 - [Google](https://google.com)
