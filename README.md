@@ -138,6 +138,14 @@
 - [Thingiverse](http://www.thingiverse.com/)
 - [Kickstarter](https://www.kickstarter.com/)
 - [Google](https://google.com)
+- [Roboforum](http://roboforum.ru/)
+- [Marlin](http://reprap.org/wiki/Marlin/ru)
+- [Калибровка принтера](http://roboforum.ru/forum107/topic12700.html)
+- [Popular mechanics](http://www.popmech.ru/gadgets)
+- [3DCorp](http://3dcorp.ru/)
+- [SLS](http://can-touch.ru/blog/sls/)
+- [Технологии печати](http://www.orgprint.com/ru/wiki/obzor-tehnologij-3D-pechati)
+
 
 ## == СОАВТОРЫ ==
 
