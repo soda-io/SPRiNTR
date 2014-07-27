@@ -1,4 +1,4 @@
-![](https://cloud.githubusercontent.com/assets/147170/2811105/08f66492-ce06-11e3-8d00-49fda38c242f.png)
+![soda-logo](https://cloud.githubusercontent.com/assets/3838734/3714295/478913ee-15a0-11e4-829a-0ea6ad20f256.png)
 
 ===
 
